@@ -1,0 +1,25 @@
+﻿<xml>
+  <hospitals>
+    <hospital>
+      <id>0</id>
+      <name>hospital a</name>
+      <waitTime>15</waitTime>
+    </hospital>
+    <hospital>
+      <id>1</id>
+      <name>hospital b</name>
+      <waitTime>5</waitTime>
+    </hospital>
+    <hospital>
+      <id>2</id>
+      <name>hospital c</name>
+      <waitTime>45</waitTime>
+    </hospital>
+    <hospital>
+      <id>3</id>
+      <name>hospital d</name>
+      <waitTime>55</waitTime>
+    </hospital>
+  </hospitals>
+  
+</xml>
